@@ -1,4 +1,5 @@
 # TAREA RAMAS
+por Raul Rubin
 ## 1. Creamos la rama
 > Aqui cremos la rama nueva llamada primera con *git branch*
 ![image](https://github.com/RaulRubin/Prueba3/blob/main/Ej3/Creando%20branch%20primera.png)
